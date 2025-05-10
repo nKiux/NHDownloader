@@ -1,4 +1,7 @@
 # NHDownloader
+Tutorial: https://www.youtube.com/watch?v=WzcnO6nLoCY
+
+
 YES nhentai downloader
 and I'm drunk, whatevr.
 
