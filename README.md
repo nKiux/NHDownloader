@@ -3,7 +3,8 @@ YES nhentai downloader
 and I'm drunk, whatevr.
 
 ## !!The .exe file is compiled with [NuitkaGUI](https://github.com/271374667/NuitkaGUI), which might cause antivirus to detect, if you have any concern, don't use the .exe version, run Python file directly. !!
-
+### VirusTotal scan report 
+https://www.virustotal.com/gui/file/693d6646418f58974ee2fd93f10b4b50656954652bc7085d29414ca6587e0c1d
 ## Tutorial:
 - install Python (if you use python version)
 - pip install requests (if you use python version)
