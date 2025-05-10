@@ -1,2 +1,0 @@
-# NHDownloader
-nHentai Downloader 
