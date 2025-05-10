@@ -2,6 +2,14 @@
 YES nhentai downloader
 and I'm drunk, whatevr.
 
+## !!The .exe file is compiled with [NuitkaGUI](https://github.com/271374667/NuitkaGUI), which might cause antivirus to detect, if you have any concern, don't use the .exe version, run Python file directly. !!
+
+## Tutorial:
+- install Python (if you use python version)
+- pip install requests (if you use python version)
+- Double click it to start
+- input the six digit
+- input the range you'd like to download (eg. 1-100, 18-80)
 
 So... The python source code and Nuitka packed .exe files are above.
 
